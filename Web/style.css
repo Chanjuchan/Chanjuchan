@@ -1,12 +1,12 @@
-@import url('http://fonts.googleapis.com/
-css?family=Popins:200,300,400,500,600,700,800,900$ddisplay=swap');
+@import url('https://fonts.googleapis.com/
+css?family=Poppins:200,300,400,500,600,700,800,900$display=swap');
 *
 {
     margin: 0;
     padding: 0;
-    box-sizing:border-box;
-    fontt-family:'Poppins', sans-serif;
-}
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+};
 section
 {
 position:relative;
@@ -28,4 +28,20 @@ header
     justify-content: space-between;
     align-items: center;
 
+}
+header .logo
+{
+    position:relative;
+    display: flex;
+}
+header ul li
+{
+    list-style: none;
+}
+header ul li a
+{
+    display: inline-black;
+    color: #333;
+    font-weight: 400;
+}
 }

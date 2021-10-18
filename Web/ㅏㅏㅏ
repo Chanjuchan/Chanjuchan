@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>진찬원</title>
+    <style>
+        @font-face {
+    font-family: 'SBAggroB';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SBAggroB.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+        body {
+            font-family: 'SBAggroB';
+        }
+    </style>
+</head>
+<body>
+    <h1>실기실 박탈세대를 위한 카공 지도</h1>
+
+<hr class="solid">
+<span>전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 ㅇ 전력발전소 </span>
+<hr class="solid">
+<span>호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 호그와트 도서관 </span>
+</body>
+</html>
